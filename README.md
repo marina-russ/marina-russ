@@ -1,16 +1,18 @@
-### Hi there 👋
+# Marina Russ
 
-<!--
-**marina-russ/marina-russ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi! Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+I'm a front-end developer currently learning full stack development through MSU's Code Bootcamp.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About
+- 🌱 I’m currently learning **Node.js**
+- Languages: HTML5, CSS3, JavaScript ES6
+- Hobbies: Gaming, Reading, Music
+- Things I'm excited to learn next: React.js, CSS animations
+
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I'm left-handed and can speak French Canadian!
+
+
+### Badges:
+[![forthebadge](https://forthebadge.com/images/badges/uses-badges.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/approved-by-veridian-dynamics.svg)](https://forthebadge.com)
