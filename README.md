@@ -1,14 +1,18 @@
-## HI! I'm Marina Russ 👋
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/marinaruss/)
+<h1 align="center"> Hi! I'm Marina Russ 👋</h1>
+
+![banner](http://via.placeholder.com/1000x200.png)
+
 
 ## It's nice to meet you! [![Visits Badge](https://badges.pufler.dev/visits/marina-russ/marina-russ)](https:marina-russ.github.io)
 
 I'm a front-end developer currently learning full stack development through MSU's Code Bootcamp. My goal is to create sites and apps that are both functional and beautiful to maximize the user's experience.
 
-### Portfolio
+### Portfolio:
 [marina-russ.github.io/](https://marina-russ.github.io/)
 
-### About
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/marinaruss/)
+
+### About:
 - 🕹️ Hobbies: Gaming 🎮, Reading 📚, Music 🎧, 
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm left-handed and can speak French Canadian!
