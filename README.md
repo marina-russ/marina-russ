@@ -19,13 +19,13 @@ I'm a front-end developer currently learning full stack development through MSU'
 - 💡 Things I'm excited to learn next: React.js, CSS animations 
 
 
-
 ### Stats:
-
-[![Marina's GitHub stats](https://github-readme-stats.vercel.app/api?username=marina-russ&show_icons=true&hide=stars)](https://github.com/marimna-russ/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marina-russ&layout=compact)](https://github.com/marina-russ/github-readme-stats)
-
+<a href="https://github.com/marina-russ/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=marina-russ&show_icons=true&hide=stars&title_color=4fe3e0&icon_color=42e392&bg_color=1d1d1d&text_color=fff" />
+</a>
+<a href="https://github.com/marina-russ/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marina-russ&layout=compact&title_color=4fe3e0&bg_color=1d1d1d&text_color=fff" />
+</a>
 
 ### Badges:
 [![forthebadge](https://forthebadge.com/images/badges/uses-badges.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/approved-by-veridian-dynamics.svg)](https://forthebadge.com)
