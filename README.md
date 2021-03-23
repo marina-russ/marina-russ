@@ -21,10 +21,10 @@ I'm a front-end developer currently learning full stack development through MSU'
 
 ### Stats:
 <a href="https://github.com/marina-russ/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=marina-russ&show_icons=true&hide=stars&title_color=4fe3e0&icon_color=42e392&bg_color=1d1d1d&text_color=fff" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=marina-russ&show_icons=true&hide=stars&theme=vue" />
 </a>
 <a href="https://github.com/marina-russ/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marina-russ&layout=compact&title_color=4fe3e0&bg_color=1d1d1d&text_color=fff" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marina-russ&layout=compact&theme=vue" />
 </a>
 
 ### Badges:
