@@ -1,10 +1,10 @@
-![banner](github-banner.png)
+<p align="center"><img src="github-banner.png" align="center"></p>
 
-## 👋 It's nice to meet you! [![Visits Badge](https://badges.pufler.dev/visits/marina-russ/marina-russ)](https:marina-russ.github.io)
+<h1 align="center">👋 It's nice to meet you!</h1>
 
-I'm a front-end developer currently learning full stack development through MSU's Code Bootcamp. My goal is to create sites and apps that are both functional and beautiful to maximize the user's experience. I'm passionate about CSS3 and excited about the possibilities with APIs! I love how the tech world is constantly revolving, opening up newer and more efficient ways to problem solve every day!
+<p align="center">I'm a front-end developer currently learning full stack development through MSU's Code Bootcamp. My goal is to create sites and apps that are both functional and beautiful to maximize the user's experience. I'm passionate about CSS3 and excited about the possibilities with APIs! I love how the tech world is constantly revolving, opening up newer and more efficient ways to problem solve every day!</p>
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/marinaruss/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/marinaruss/) [![Visits Badge](https://badges.pufler.dev/visits/marina-russ/marina-russ)](https:marina-russ.github.io) 
 
 📄 Portfolio: [marina-russ.github.io/](https://marina-russ.github.io/)
 
