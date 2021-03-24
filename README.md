@@ -1,6 +1,4 @@
-<h1 align="center"> Hi! I'm Marina Russ</h1>
-
-![banner](http://via.placeholder.com/1000x200.png)
+![banner](github-banner.png)
 
 ## 👋 It's nice to meet you! [![Visits Badge](https://badges.pufler.dev/visits/marina-russ/marina-russ)](https:marina-russ.github.io)
 
