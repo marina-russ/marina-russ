@@ -8,7 +8,7 @@
 
 📄 Portfolio: [marina-russ.github.io/](https://marina-russ.github.io/)
 
-## 🧙‍♀️  About:
+## 🧙‍♀️  About Me:
 - 🕹️ Hobbies: 🎮 Gaming, 📚 Reading, 🎧 Music, 🎨 Graphic Design
 - 😄 Pronouns: she/her
 - 🍁 Speaks: English, French Canadian
