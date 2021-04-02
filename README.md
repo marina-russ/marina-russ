@@ -16,10 +16,7 @@
 
 ## 🖥️ Code:
 
-#### Languages: 
-![HTML5](https://img.shields.io/static/v1?logo=html5&label=%20&message=HTML5&color=e34f26&style=flat-square) 
-![JavaScript](https://img.shields.io/static/v1?logo=JAVASCRIPT&label=%20&message=JavaScript&color=f7df1e&style=flat-square) 
-![CSS3](https://img.shields.io/static/v1?logo=css3&label=%20&message=CSS3&color=1572b6&style=flat-square)
+#### Languages: ![HTML5](https://img.shields.io/static/v1?logo=html5&label=%20&message=HTML5&color=e34f26&style=flat-square) ![JavaScript](https://img.shields.io/static/v1?logo=JAVASCRIPT&label=%20&message=JavaScript&color=f7df1e&style=flat-square) ![CSS3](https://img.shields.io/static/v1?logo=css3&label=%20&message=CSS3&color=1572b6&style=flat-square)
 
 
 #### Tools: ![GitHub](https://img.shields.io/static/v1?logo=github&label=%20&message=GitHub&color=181717&style=flat-square) ![GitBash](https://img.shields.io/static/v1?logo=git&label=%20&message=GitBash&color=f05032&style=flat-square) ![VS Code](https://img.shields.io/static/v1?logo=visual-studio-code&label=%20&message=VS%20Code&color=007acc&style=flat-square) ![Slack](https://img.shields.io/static/v1?logo=slack&label=%20&message=Slack&color=4a154b&style=flat-square) ![Discord](https://img.shields.io/static/v1?logo=discord&label=%20&message=Discord&color=7289da&style=flat-square) ![GDrive](https://img.shields.io/static/v1?logo=google-drive&label=%20&message=Google%20Drive&color=4285f4&style=flat-square) ![AdobePS](https://img.shields.io/static/v1?logo=adobe-photoshop&label=%20&message=Photoshop&color=31a8ff&style=flat-square) ![AdobeXD](https://img.shields.io/static/v1?logo=adobe-xd&label=%20&message=Adobe%20XD&color=ff61f6&style=flat-square) 
