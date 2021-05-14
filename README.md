@@ -14,20 +14,26 @@
 - 🍁 Speaks: English, French Canadian
 - ✍️ Fun fact: I'm left-handed 
 
-## 🖥️ Code:
+## 🖥️ Code: 
 
-#### Languages: ![HTML5](https://img.shields.io/static/v1?logo=html5&label=%20&message=HTML5&color=e34f26&style=flat-square) ![JavaScript](https://img.shields.io/static/v1?logo=JAVASCRIPT&label=%20&message=JavaScript&color=f7df1e&style=flat-square) ![CSS3](https://img.shields.io/static/v1?logo=css3&label=%20&message=CSS3&color=1572b6&style=flat-square)
+#### Languages: ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+
+#### Databases: ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+#### Frameworks: ![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white) ![Express](	https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+
+#### Tools: ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white)
 
 
-#### Tools: ![GitHub](https://img.shields.io/static/v1?logo=github&label=%20&message=GitHub&color=181717&style=flat-square) ![GitBash](https://img.shields.io/static/v1?logo=git&label=%20&message=GitBash&color=f05032&style=flat-square) ![VS Code](https://img.shields.io/static/v1?logo=visual-studio-code&label=%20&message=VS%20Code&color=007acc&style=flat-square) ![Slack](https://img.shields.io/static/v1?logo=slack&label=%20&message=Slack&color=4a154b&style=flat-square) ![Discord](https://img.shields.io/static/v1?logo=discord&label=%20&message=Discord&color=7289da&style=flat-square) ![GDrive](https://img.shields.io/static/v1?logo=google-drive&label=%20&message=Google%20Drive&color=4285f4&style=flat-square) ![AdobePS](https://img.shields.io/static/v1?logo=adobe-photoshop&label=%20&message=Photoshop&color=31a8ff&style=flat-square) ![AdobeXD](https://img.shields.io/static/v1?logo=adobe-xd&label=%20&message=Adobe%20XD&color=ff61f6&style=flat-square) 
-#### Libraries/Frameworks: ![jQuery](https://img.shields.io/static/v1?logo=jquery&label=%20&message=jQuery&color=0769ad&style=flat-square) ![FontAwesome](https://img.shields.io/static/v1?logo=font-awesome&label=%20&message=Font%20Awesome&color=339af0&style=flat-square) ![GreenSock](https://img.shields.io/static/v1?logo=green-sock&label=%20&message=GreenSock&color=88ce02&style=flat-square) ![Bootstrap](https://img.shields.io/static/v1?logo=bootstrap&label=%20&message=Bootstrap&color=7952b3&style=flat-square)
+
+![jQuery](https://img.shields.io/static/v1?logo=jquery&label=%20&message=jQuery&color=0769ad&style=flat-square) ![FontAwesome](https://img.shields.io/static/v1?logo=font-awesome&label=%20&message=Font%20Awesome&color=339af0&style=flat-square) ![GreenSock](https://img.shields.io/static/v1?logo=green-sock&label=%20&message=GreenSock&color=88ce02&style=flat-square) ![Bootstrap](https://img.shields.io/static/v1?logo=bootstrap&label=%20&message=Bootstrap&color=7952b3&style=flat-square)
+
+![GitHub](https://img.shields.io/static/v1?logo=github&label=%20&message=GitHub&color=181717&style=flat-square) ![GitBash](https://img.shields.io/static/v1?logo=git&label=%20&message=GitBash&color=f05032&style=flat-square) ![VS Code](https://img.shields.io/static/v1?logo=visual-studio-code&label=%20&message=VS%20Code&color=007acc&style=flat-square) ![Slack](https://img.shields.io/static/v1?logo=slack&label=%20&message=Slack&color=4a154b&style=flat-square) ![Discord](https://img.shields.io/static/v1?logo=discord&label=%20&message=Discord&color=7289da&style=flat-square) ![GDrive](https://img.shields.io/static/v1?logo=google-drive&label=%20&message=Google%20Drive&color=4285f4&style=flat-square) ![AdobePS](https://img.shields.io/static/v1?logo=adobe-photoshop&label=%20&message=Photoshop&color=31a8ff&style=flat-square) ![AdobeXD](https://img.shields.io/static/v1?logo=adobe-xd&label=%20&message=Adobe%20XD&color=ff61f6&style=flat-square) 
+
 
 #### 💡 Future:
-- 🌱 Currently Learning: ![Node.js](https://img.shields.io/static/v1?logo=node-js&label=%20&message=Node.js&color=339933&style=flat-square) ![npm](https://img.shields.io/static/v1?logo=npm&label=%20&message=npm&color=cb3837&style=flat-square)
-- ❗ Excited To Learn: ![React](https://img.shields.io/static/v1?logo=react&label=%20&message=React&color=61dafb&style=flat-square) ![css animate](https://img.shields.io/static/v1?label=%20&message=CSS%20Animations&color=f43059&style=flat-square)
-
-### 📈 Stats:
-[![Marina's GitHub stats](https://github-readme-stats.vercel.app/api?username=marina-russ&show_icons=true&hide=stars&theme=vude-dark)](https://github.com/anuraghazra/github-readme-stats)
+- 🌱 Currently Learning: ![React](https://img.shields.io/static/v1?logo=react&label=%20&message=React&color=61dafb&style=flat-square)
+- ❗ Excited To Learn: ![css animate](https://img.shields.io/static/v1?label=%20&message=CSS%20Animations&color=f43059&style=flat-square)
 
 ### 🏷️ Badges:
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/winter-is-coming.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/winter-is-coming.svg)](https://forthebadge.com)
