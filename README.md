@@ -2,7 +2,7 @@
 
 <h1 align="center">👋 It's nice to meet you!</h1>
 
-<p align="center">I'm a front-end developer currently learning full stack development through MSU's Code Bootcamp. My goal is to create sites and apps that are both functional and beautiful to maximize the user's experience. I'm passionate about CSS3 and excited about the possibilities with APIs! I love how the tech world is constantly revolving, opening up newer and more efficient ways to problem solve every day!</p>
+<p align="center">My goal is to create sites and apps that are both functional and beautiful to maximize the user's experience. I'm passionate about CSS3 and excited about the possibilities with APIs! I love how the tech world is constantly revolving, opening up newer and more efficient ways to problem solve every day!</p>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-66CDAA?style=for-the-badge)](https://marina-russ.github.io/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marinaruss/)
 
