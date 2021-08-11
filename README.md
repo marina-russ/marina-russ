@@ -6,7 +6,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-66CDAA?style=for-the-badge)](https://marina-russ.github.io/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marinaruss/)
 
-## 🧙‍♀️  About Me:
+## 🧙‍♀️ About Me:
 - 😄 Pronouns: she/her
 - 🕹️ Hobbies: 🎮 Gaming, 📚 Reading, 🎧 Music, 🎨 Graphic Design
 - 🍁 Speaks: English, French Canadian
