@@ -1,6 +1,6 @@
 <p align="center"><img src="github-banner.png" align="center"></p>
 
-<h1 align="center">👋 It's nice to meet you!</h1>
+<h1 align="center">👋 Hi, it's nice to meet you!</h1>
 
 <p align="center">My goal is to create sites and apps that are both functional and beautiful to maximize the user's experience. I'm passionate about CSS and excited about the possibilities that come with APIs! I love how the tech world is constantly evolving and growing, opening up newer and more efficient ways to problem solve every day!</p>
 
