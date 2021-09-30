@@ -9,7 +9,7 @@
 ## 🧙‍♀️ About Me:
 - 😄 Pronouns: she/her
 - 🕹️ Hobbies: 🎮 Gaming, 📚 Reading, 🎧 Music, 🎨 Graphic Design
-- 🍁 Speaks: English, French Canadian
+- 🍁 Speaks: English, French
 - ✍️ Fun fact: I'm left-handed!
 
 ## 🖥️ Code: 
