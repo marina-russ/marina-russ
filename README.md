@@ -8,7 +8,7 @@
 
 ## 🧙‍♀️ About Me:
 - 😄 Pronouns: she/her
-- 🕹️ Hobbies: 🎮 Gaming, 📚 Reading, 🎧 Music, 🎨 Graphic Design
+- 🕹️ Hobbies: 🎮 Gaming, 📚 Reading, 🎧 Music
 - 🍁 Speaks: English, French
 - ✍️ Fun fact: I'm left-handed!
 
