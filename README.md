@@ -38,5 +38,5 @@
 #### 💡 Interested To Learn:
 ![Sass Badge](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff&style=for-the-badge) ![CSS Modules Badge](https://img.shields.io/badge/CSS%20Modules-000?logo=cssmodules&logoColor=fff&style=for-the-badge) ![Bun Badge](https://img.shields.io/badge/Bun-000?logo=bun&logoColor=fff&style=for-the-badge) ![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=for-the-badge) ![PWA Badge](https://img.shields.io/badge/PWA-5A0FC8?logo=pwa&logoColor=fff&style=for-the-badge) ![PHP Badge](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=for-the-badge) ![CSS Animations](https://img.shields.io/badge/CSS%20Animations-F43059?style=for-the-badge) 
 
-## 🎮 When I'm AFK:
+## 🏡 When I'm AFK:
 ![PlayStation Badge](https://img.shields.io/badge/PlayStation-003791?logo=playstation&logoColor=fff&style=for-the-badge) ![Steam Badge](https://img.shields.io/badge/Steam-000?logo=steam&logoColor=fff&style=for-the-badge) ![Spotify Badge](https://img.shields.io/badge/Spotify-1DB954?logo=spotify&logoColor=fff&style=for-the-badge) ![Netflix Badge](https://img.shields.io/badge/Netflix-E50914?logo=netflix&logoColor=fff&style=for-the-badge) ![Discord Badge](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=for-the-badge)
